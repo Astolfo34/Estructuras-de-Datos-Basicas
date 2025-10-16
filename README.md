@@ -4,14 +4,6 @@ Este proyecto implementa varias estructuras de datos en Java, incluyendo listas 
 
 ## Estructuras de Datos Implementadas
 
-### Lista Enlazada Simple
-- Implementación completa con operaciones básicas
-- Métodos iterativos y recursivos
-
-### Lista Doblemente Enlazada
-- Implementación completa con nodos dobles (anterior y siguiente)
-- Operaciones básicas y avanzadas
-- Métodos iterativos y recursivos
 
 ## Clases Principales
 
@@ -19,6 +11,9 @@ Este proyecto implementa varias estructuras de datos en Java, incluyendo listas 
 2. `NodoDoble` - Nodo para la lista doblemente enlazada
 3. `ListaEnlazada` - Implementación de lista enlazada simple
 4. `ListaDoblementeEnlazada` - Implementación de lista doblemente enlazada
+5. `ListaCircularDoblementeEnlazada`
+6. `Arboles`
+7. `Pilas`
 
 ## Runners
 
@@ -30,8 +25,7 @@ Este proyecto implementa varias estructuras de datos en Java, incluyendo listas 
 
 - Todos los métodos incluyen documentación con casos base y recursivos cuando aplica
 - Complejidad temporal de cada método especificada
-- Implementación siguiendo buenas prácticas de programación
-- Código en español
+
 
 ## Cómo ejecutar
 
